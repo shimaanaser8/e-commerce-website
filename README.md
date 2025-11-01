@@ -40,4 +40,4 @@ The final product is designed to be visually appealing, responsive, and user-fri
 -  Checked in multiple browsers: Chrome, Firefox, Edge  
 -  Basic accessibility review using **Lighthouse**
    ```bash
-   git clone https://github.com/shimaanaser8/ecommerce-platform.git
+   git clone https://github.com/shimaanaser8/e-commerce-website.git
